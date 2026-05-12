@@ -1,0 +1,1 @@
+# escola_next_js_teste_02
